@@ -1,7 +1,9 @@
 # Hey, I'm Simon.
-AI, Machine Learning, Data science
+AI, Machine Learning, Data Science
 
-### Connect
+
+### Links
+- Website: https://sdebes.github.io/
 - Email: debes23@gmail.com
 - LinkedIn: linkedin.com/in/sdebes
 
