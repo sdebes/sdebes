@@ -1,19 +1,19 @@
-Hey, I'm Simon.
+# Hey, I'm Simon.
 AI, Machine Learning, Data science
 
-# Connect
+### Connect
 - Email: debes23@gmail.com
 - LinkedIn: linkedin.com/in/sdebes
 
-# Tech Stack
-## ML
+### Tech Stack
+#### ML
 Pytorch, Tensorflow, LightGBM, XGBoost
 
-## AI
+### AI
 LLM, RAG, Agentic Workflows
 
-## Backend
+### Backend
 FastAPI, AWS, Docker, SQL
 
-## Data
+### Data
 Pandas, Numpy, Vector Databases, Unstructured Data
