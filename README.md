@@ -1,6 +1,8 @@
 # Hey, I'm Simon.
-AI, Machine Learning, Data Science
 
+I have a background in physics, where I worked a lot with machine learning. 
+Currently very fascinated with generative AI.
+This GitHub has a lot of different projects in app development, statistics, astrophysics, etc.
 
 ### Links
 - Website: https://sdebes.github.io/
