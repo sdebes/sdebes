@@ -1,7 +1,6 @@
 # Hey, I'm Simon.
 
-I have a background in physics, where I worked a lot with machine learning. 
-Currently very fascinated with generative AI.
+I have a background in physics, where I worked a lot with machine learning, AI, data analysis, etc.
 This GitHub has a lot of different projects in app development, statistics, astrophysics, etc.
 
 ### Links
@@ -14,7 +13,7 @@ This GitHub has a lot of different projects in app development, statistics, astr
 Pytorch, Tensorflow, LightGBM, XGBoost
 
 ### AI
-LLM, RAG, Agentic Workflows
+LLM, Agentic AI, 
 
 ### Backend
 FastAPI, AWS, Docker, SQL
