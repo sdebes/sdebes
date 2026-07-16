@@ -6,14 +6,14 @@ This GitHub has a lot of different projects in app development, statistics, astr
 ### Links
 - Website: https://sdebes.github.io/
 - Email: debes23@gmail.com
-- LinkedIn: linkedin.com/in/sdebes
+- LinkedIn: https://linkedin.com/in/sdebes
 
 ### Tech Stack
 #### ML
 Pytorch, Tensorflow, LightGBM, XGBoost
 
 ### AI
-LLM, Agentic AI, 
+LLM, Agentic AI
 
 ### Backend
 FastAPI, AWS, Docker, SQL
