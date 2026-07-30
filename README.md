@@ -5,7 +5,6 @@ This GitHub has a lot of different projects in app development, statistics, astr
 
 ### Links
 - Website: https://sdebes.github.io/
-- Email: debes23@gmail.com
 - LinkedIn: https://linkedin.com/in/sdebes
 
 ### Tech Stack
