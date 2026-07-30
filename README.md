@@ -6,16 +6,3 @@ This GitHub has a lot of different projects in app development, statistics, astr
 ### Links
 - Website: https://sdebes.github.io/
 - LinkedIn: https://linkedin.com/in/sdebes
-
-### Tech Stack
-#### ML
-Pytorch, Tensorflow, LightGBM, XGBoost
-
-### AI
-LLM, Agentic AI
-
-### Backend
-FastAPI, AWS, Docker, SQL
-
-### Data
-Pandas, Numpy, Vector Databases, Unstructured Data
